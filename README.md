@@ -51,25 +51,25 @@ If you have a VIN, call your insurance to schedule the coverage date.
 *NOTE: Do not sign final documents, or wire funds, until a full vehicle inspection is completed.
 
 ### SECTION A - Verify pre-delivery vehicle records
-[ ] Check for correct name and address on your paperwork.
-[ ] Confirm vehicle's VIN matches your paperwork.
-[ ] Check display screen for any information that does not match the car.
+- [ ] 1. Check for correct name and address on your paperwork.
+- [ ] 2. Confirm vehicle's VIN matches your paperwork.
+- [ ] 3. Check display screen for any information that does not match the car.
 
 ### SECTION B - Exterior inspection
-[ ] Check for correct vehicle body color and wheels.
-[ ] Inspect body exterior paint for defects. NOTE: By and large, this should really be the only item which should cause you to reject a delivery.
-3.  Inspect vehicle underside (front & rear) for signs of damage.
-4.  Check for any obvious body panel misalignment.
-5.  Inspect wheel rims for damage.
-6.  Inspect all glass for signs of distortion or cracks.
-7.  Check for proper windshield and windshield trim installation.
-8.  Inspect all edges of the roof glass panel and rear window.
-9.  Test all doors to ensure they open and close without unreasonable effort. Check paint in areas such as door hinges, that are not visible when doors are closed.  Some deliveries have reported incomplete body painting in hidden areas.
-10.  Test opening and closing of trunk and frunk. Check paint in areas that are not visible when frunk and trunk are closed.  Some deliveries have reported incomplete body painting in hidden areas.
-11.  Check for the towing eye under the frunk mat.
-12.  Ensure door windows auto-close completely when doors are closed.
-13.  Check for front license plate bracket (if applicable in your state).
-14.  Check all front and rear exterior lights for signs of internal condensation.
+- [ ] 1. Check for correct vehicle body color and wheels.
+- [ ] 2. Inspect body exterior paint for defects. NOTE: By and large, this should really be the only item which should cause you to reject a delivery.
+- [ ] 3.  Inspect vehicle underside (front & rear) for signs of damage.
+- [ ] 4.  Check for any obvious body panel misalignment.
+- [ ] 5.  Inspect wheel rims for damage.
+- [ ] 6.  Inspect all glass for signs of distortion or cracks.
+- [ ] 7.  Check for proper windshield and windshield trim installation.
+- [ ] 8.  Inspect all edges of the roof glass panel and rear window.
+- [ ] 9.  Test all doors to ensure they open and close without unreasonable effort. Check paint in areas such as door hinges, that are not visible when doors are closed.  Some deliveries have reported incomplete body painting in hidden areas.
+- [ ] 10.  Test opening and closing of trunk and frunk. Check paint in areas that are not visible when frunk and trunk are closed.  Some deliveries have reported incomplete body painting in hidden areas.
+- [ ] 11.  Check for the towing eye under the frunk mat.
+- [ ] 12.  Ensure door windows auto-close completely when doors are closed.
+- [ ] 13.  Check for front license plate bracket (if applicable in your state).
+- [ ] 14.  Check all front and rear exterior lights for signs of internal condensation.
 
 ### SECTION C - Interior inspection
 1.  Watch for any error messages on the display screen.
