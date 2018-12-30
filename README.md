@@ -51,13 +51,13 @@ If you have a VIN, call your insurance to schedule the coverage date.
 *NOTE: Do not sign final documents, or wire funds, until a full vehicle inspection is completed.
 
 ### SECTION A - Verify pre-delivery vehicle records
-1.  Check for correct name and address on your paperwork.
-2.  Confirm vehicle's VIN matches your paperwork.
-3.  Check display screen for any information that does not match the car.
+[ ] Check for correct name and address on your paperwork.
+[ ] Confirm vehicle's VIN matches your paperwork.
+[ ] Check display screen for any information that does not match the car.
 
 ### SECTION B - Exterior inspection
-1.  Check for correct vehicle body color and wheels.
-2.  Inspect body exterior paint for defects. NOTE: By and large, this should really be the only item which should cause you to reject a delivery.
+[ ] Check for correct vehicle body color and wheels.
+[ ] Inspect body exterior paint for defects. NOTE: By and large, this should really be the only item which should cause you to reject a delivery.
 3.  Inspect vehicle underside (front & rear) for signs of damage.
 4.  Check for any obvious body panel misalignment.
 5.  Inspect wheel rims for damage.
